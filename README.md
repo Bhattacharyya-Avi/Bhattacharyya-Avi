@@ -78,7 +78,7 @@ I have Knowledge about HTML, CSS, PHP, Laravel.
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhattacharyya-Avi&show_icons=true&locale=en&layout=compact" alt="Bhattacharyya-Avi" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhattacharyya-Avi&show_icons=true&locale=en&layout=compact" alt="Bhattacharyya-Avi" />
 </p>
 
 <p>&nbsp;
