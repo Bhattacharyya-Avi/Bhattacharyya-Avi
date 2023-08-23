@@ -77,13 +77,13 @@ I have Knowledge about HTML, CSS, PHP, Laravel.
     </a>
 </p>
 
-<p>
+<!-- <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhattacharyya-Avi&show_icons=true&locale=en&layout=compact" alt="Bhattacharyya-Avi" />
-</p>
+</p> -->
 
-<p>&nbsp;
+<!-- <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhattacharyya-Avi&show_icons=true&locale=en" alt="Bhattacharyya-Avi" />
-</p>
+</p> -->
 
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhattacharyya-Avi&" alt="Bhattacharyya-Avi" />
